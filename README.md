@@ -1,4 +1,4 @@
-### Hi, we are LV-Webstudio 👋 · Hola, somos LV-Webstudio
+### Hi, we are Shania Webstudio 👋 · Hola, somos Shania Webstudio
 
 Web studio building **AI tools for real estate agencies and small teams**, and the tooling we use to build them
 with [Claude Code](https://code.claude.com/). · Estudio web: **herramientas con IA para inmobiliarias y equipos
