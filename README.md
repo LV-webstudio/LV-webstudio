@@ -1,7 +1,7 @@
 # Shania Webstudio
 
-**English** · Software studio in Andalusia, Spain. We build business tools, AI assistants, web-auditing software and video games.
-**Español** · Estudio de software en Andalucía (España). Hacemos herramientas para empresas, asistentes con IA, software de auditoría web y videojuegos.
+**English** · Software studio in Granada, Spain. We build business tools, AI assistants, web-auditing software and video games.
+**Español** · Estudio de software en Granada (España). Hacemos herramientas para empresas, asistentes con IA, software de auditoría web y videojuegos.
 
 ## Open source
 
